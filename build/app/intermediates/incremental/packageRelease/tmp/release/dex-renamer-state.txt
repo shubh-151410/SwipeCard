@@ -1,0 +1,4 @@
+#Thu Mar 12 19:56:43 IST 2020
+base.0=/home/shubhanshu/Desktop/custom_swipecard/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
